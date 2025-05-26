@@ -29,3 +29,13 @@ This is a lightweight **cold email generator built with Streamlit** that uses st
 ```bash
 git clone https://github.com/rishabhkarnwal04/cold-email-generator.git
 cd cold-email-generator
+```
+---
+
+## RUN THE APP
+
+```bash
+streamlit run cold_email.py
+```
+---
+
